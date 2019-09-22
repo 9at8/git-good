@@ -7,6 +7,4 @@
 3. Daniel Wang
 
 ## Attendees
-
-1.
-2. Anhua Wang 
+10. Anhua Wang 
