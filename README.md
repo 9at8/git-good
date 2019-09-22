@@ -8,4 +8,5 @@
 
 ## Attendees
 
-1. Micah Beech 
+1. Juan Sánchez :star:  
+2. Micah Beech 
