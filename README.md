@@ -8,6 +8,6 @@
 
 ## Attendees
 
-1. Micah Beech 
-2. Allen Lu
-
+1. Juan Sánchez :star:
+2. Micah Beech 
+3. Allen Lu
