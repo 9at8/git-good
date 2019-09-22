@@ -8,4 +8,6 @@
 
 ## Attendees
 
-1. Rafael Pablos Sarabia 
+1. Rafael Pablos Sarabia :es:
+2. Juan Sánchez :star: :es:
+3. Micah Beech
