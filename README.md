@@ -8,5 +8,6 @@
 
 ## Attendees
 
-1. 
+1. Micah Beech 
 2. Allen Lu
+
