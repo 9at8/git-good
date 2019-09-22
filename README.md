@@ -9,3 +9,4 @@
 ## Attendees
 
 1. 
+2. Allen Lu
