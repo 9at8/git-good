@@ -8,4 +8,5 @@
 
 ## Attendees
 
-1. 
+1. Linna
+2. 
