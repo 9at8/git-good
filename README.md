@@ -8,4 +8,4 @@
 
 ## Attendees
 
-1. Rafael Pablos Sarabia
+1. Rafael Pablos Sarabia 
