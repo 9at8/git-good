@@ -1,9 +1,7 @@
-# git best! :P
-
 # git-good
 
-HI! This is Daniel!
+HI! This is Adi!
 
-You should have cloned first!
+I'm in 3B CS.
 
-This is a new branch!
+I love playing Beat Saber.
